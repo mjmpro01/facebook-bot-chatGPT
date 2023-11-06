@@ -1,0 +1,1 @@
+{"version":3,"file":"loadAttachment.d.ts","sourceRoot":"","sources":["../../src/tools/loadAttachment.ts"],"names":[],"mappings":";AAEA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AAE1D,KAAK,cAAc,GAAG,QAAQ,GAAG,MAAM,GAAG,SAAS,CAAA;AAEnD,wBAA8B,cAAc,CAAC,YAAY,EAAE,MAAM,EAAE,EAAE,UAAU,EAAE,OAAO,GAAG,OAAO,CAAC,cAAc,EAAE,CAAC,CAuBnH"}
